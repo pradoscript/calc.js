@@ -4,4 +4,4 @@
 
 - Foram utilizadas JavaScript, HTML e CSS 🚀
 
-<img src="/calc.js/interface.png">
+![interface](interface.png)
