@@ -4,6 +4,7 @@ const input = document.getElementById("input")
 const resultInput = document.getElementById("result")
 const allowedKeys = ["(", ")", "/", "*", "-", "+", "9", "8", "7", "6", "5", "4", "3", "2", "1", "0", ".", "%", " "]
 
+
 function calculate() {
     resultInput.value = "ERROR"
     resultInput.classList.add("error")
